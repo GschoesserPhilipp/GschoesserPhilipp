@@ -2,7 +2,7 @@
 
 ### 🎓 CS Student @ University of Innsbruck | ⚙️ Automation Engineer @ INNIO
 
-I’m a developer who loves to connect the industrial shop floor with clean, scalable software. Whether I'm extracting data from a CNC machine at **INNIO** or building IoT tools for firefighting competitions etc. I focus on performance, reliability, and great UX.
+I’m a developer who loves to connect the industrial shop floor with clean, scalable software. Whether I'm extracting data from a CNC machine at **INNIO** or building IoT tools for firefighting competitions etc. I focus on performance and reliability.
 
 ---
 
