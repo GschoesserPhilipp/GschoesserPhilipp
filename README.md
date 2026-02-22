@@ -1,45 +1,52 @@
-# 👋 Hi! I'm Philipp Gschösser
+# Hi, I'm Philipp 👋
 
-### 🎓 CS Student @ University of Innsbruck | ⚙️ Automation Engineer @ INNIO
+### CS Student @ University of Innsbruck · Automation Engineer @ INNIO Jenbacher
 
-I’m a developer who loves to connect the industrial shop floor with clean, scalable software. Whether I'm extracting data from a CNC machine at **INNIO** or building IoT tools for firefighting competitions etc. I focus on performance and reliability.
+I build software that bridges the physical and digital world — 
+from industrial machines and embedded hardware to the backends and dashboards that make their data actionable.
 
 ---
 
-## 🛠️ My Tech Toolbox
+## 🛠️ Tech Stack
 
-### ⚙️ Backend & Industrial Automation
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Spring](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+### ⚙️ Backend & Automation
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![uv](https://img.shields.io/badge/uv-DE5FE9?style=for-the-badge&logo=astral&logoColor=white)
+![Ruff](https://img.shields.io/badge/Ruff-FCC21B?style=for-the-badge&logo=ruff&logoColor=black)
 
+### 🔌 Industrial & Hardware
+![OPC UA](https://img.shields.io/badge/OPC_UA-FF6600?style=for-the-badge&logoColor=white)
+![Modbus](https://img.shields.io/badge/Modbus-FF6600?style=for-the-badge&logoColor=white)
+![MQTT](https://img.shields.io/badge/MQTT-660066?style=for-the-badge&logo=eclipse-mosquitto&logoColor=white)
+![Raspberry Pi](https://img.shields.io/badge/Raspberry_Pi-C51A4A?style=for-the-badge&logo=raspberry-pi&logoColor=white)
+![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white)
 
-
-### 🔌 Infrastructure & Hardware
+### ☁️ Infrastructure & DevOps
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![OPC UA](https://img.shields.io/badge/OPC_UA_|_Modbus-FF6600?style=for-the-badge&logo=industrial-software&logoColor=white)
 
-### 🌐 Frontend & UI
+### 🌐 Frontend
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![PySide](https://img.shields.io/badge/PySide_|_QML-41CD52?style=for-the-badge&logo=qt&logoColor=white)
 
 ---
 
-## 🚀 What I'm Up To
+## 🚀 What I'm Working On
 
-- Harvesting real-time data via **OPC UA, Modbus, and MQTT**.
-- Developing automated data pipelines with **Python** and **FastAPI**.
-- Visualizing complex machine states in modern web interfaces.
-- **Full-Stack IoT:** Creating end-to-end solutions, from the physical sensor to a **React**-based user dashboard.
+- **Industrial Automation:** Connecting machines (Siemens CNC machines 
+  and PLCs etc.) to software via OPC UA, Modbus and MQTT — turning raw industrial data into automated pipelines
+- **IoT Projects:** Building end-to-end solutions from physical hardware to web interfaces, self-hosted on my own infrastructure
+- **Always building something** — usually involving a Raspberry Pi, Python, ESP32 etc.
 
 ---
 
-## 📬 Let's Talk!
-- **Work:** philipp.gschoesser@innio.com
-- **UIBK:**  philipp.gschoesser@student.uibk.ac.at
-- **Private** philipp.gschoesser@gmail.com
-- ⛰️ **Location:** Tyrol
+## 📬 Get in Touch
+
+- 🏢 **Work:** philipp.gschoesser@innio.com
+- 🎓 **University:** philipp.gschoesser@student.uibk.ac.at
+- 📧 **Personal:** philipp.gschoesser@gmail.com
+- ⛰️ **Location:** Tyrol, Austria
