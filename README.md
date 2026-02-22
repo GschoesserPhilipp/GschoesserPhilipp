@@ -12,8 +12,6 @@ from industrial machines and embedded hardware to the backends and dashboards th
 ### ⚙️ Backend & Automation
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![uv](https://img.shields.io/badge/uv-DE5FE9?style=for-the-badge&logo=astral&logoColor=white)
-![Ruff](https://img.shields.io/badge/Ruff-FCC21B?style=for-the-badge&logo=ruff&logoColor=black)
 
 ### 🔌 Industrial & Hardware
 ![OPC UA](https://img.shields.io/badge/OPC_UA-FF6600?style=for-the-badge&logoColor=white)
