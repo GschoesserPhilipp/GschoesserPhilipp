@@ -28,7 +28,6 @@ from industrial machines and embedded hardware to the backends and dashboards th
 
 ### Frontend
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![PySide](https://img.shields.io/badge/PySide_|_QML-41CD52?style=for-the-badge&logo=qt&logoColor=white)
 
 ---
 
