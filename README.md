@@ -4,6 +4,8 @@
 I build software that bridges the physical and digital world — 
 from industrial machines and embedded hardware to the backends and dashboards that make their data actionable.
 
+Currently: Computer Science student @ University of Innsbruck · Automation & Digitalization @ INNIO Jenbacher
+
 ---
 
 ## Tech Stack
@@ -42,7 +44,5 @@ from industrial machines and embedded hardware to the backends and dashboards th
 
 ## Get in Touch
 
--  **Work:** philipp.gschoesser@innio.com
--  **University:** philipp.gschoesser@student.uibk.ac.at
--  **Personal:** philipp.gschoesser@gmail.com
+-  philipp.gschoesser@gmail.com
 -  **Location:** Tyrol, Austria
